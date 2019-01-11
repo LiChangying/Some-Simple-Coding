@@ -2,9 +2,6 @@ package com.lcy;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
-
-
-
 /**
  * @describe ArrayList的内部实现，摘自数据结构与算法分析：java语言描述，第四版，中文版
  */
